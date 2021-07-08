@@ -4,5 +4,10 @@
 
 script.sh: run the simulation
 
+defs.h: definitions to activate flags
+
 paramet.i: parameter file
-SUB_
+
+SUB_ProbDef.f: PK model in Fortrtan Form (Stoichiometry, Reaction Rates and grad of Reaction Rates)
+
+SUB_main.f: main program
