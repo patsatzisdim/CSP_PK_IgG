@@ -1,9 +1,9 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Patsatzis
-    given-names: Dimitris
-title: "Software to create the CSP data for the manuscript "Algorithmic multiscale analysis for the regulation of
-antibody PK in human""
+  - family-names: "Patsatzis"
+    given-names: "Dimitris"
+title: "Software to create the CSP data for the manuscript Algorithmic multiscale analysis for the regulation of
+antibody PK in human"
 version: 1.0.1
 date-released: 2021-08-07
